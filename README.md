@@ -2,4 +2,5 @@
 
 github beginers guide
 
-I like Python and that's I'm made of!
+Hello Everyone, I like Python and that's I'm made of!
+
